@@ -1,6 +1,6 @@
 // @version=4
 // This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
-// © Bunghole 2020
+// © Mohammad Alhashemi 2020
 strategy(default_qty_type = strategy.percent_of_equity, default_qty_value = 100, pyramiding = 0, title="MACD Long Strategy", overlay=true, shorttitle="MACD Long Strategy", currency = 'USD', initial_capital = 100000)
 
 
